@@ -1,0 +1,6 @@
+Stage area:
+git add index.php
+git add --all
+
+
+git commit -m "Version 1.0 do repositório"
