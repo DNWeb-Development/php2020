@@ -2,5 +2,16 @@ Stage area:
 git add index.php
 git add --all
 
-
+COMMIT DAS ALTERAÇÕES
 git commit -m "Version 1.0 do repositório"
+
+VINCULAÇÃO COM O PROJETO NO GITHUB:
+git remote add origin https://github.com/DNWeb-Development/php2020.git
+
+CONFIGURAÇÕES GLOBAIS:
+git config --global user.name "Marcelo Souza"
+git config --global user.email "marcelo.souza@dnweb.com.br"
+
+ATUALIZAR PASTA COM O GITHUB:
+git push origin master
+git pull origin master
